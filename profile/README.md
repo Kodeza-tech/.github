@@ -10,7 +10,7 @@ Somos uma startup moçambicana de desenvolvimento de software, focada em **desco
 - ⚡ **Inovação Contextualizada**: Tecnologia adaptada às necessidades locais.  
 
 ### **Tech Stack**  
-`Next.js` `React Native` `Node.js` `Python` `PostgreSQL` `AWS`  
+`Next.js` `React JS` `Node.js` `Python` `Django` `Flutter` `PostgreSQL` `Firebase` `Supabase` `PostgreSQL` 
 
 ### **Valores**  
 - ✅ **Inovação Colaborativa**: Código aberto para projetos comunitários.  
