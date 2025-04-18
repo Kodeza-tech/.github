@@ -23,7 +23,7 @@ Acreditamos em tecnologia aberta e inclusiva. Explore nossos repositórios, repo
 **📞 Contactos**:  
 🌐 [kodeza.co.mz](https://kodeza.co.mz)  
 ✉️ kodeza.co@gmail.com  
-📱 +258 87 110 5922  
+📱 +258 87 110 5922 | +258 83 503 9891  
 
 ---  
 *"Transformando desafios em código, linha por linha."*  
