@@ -21,8 +21,8 @@ Somos uma startup moçambicana de desenvolvimento de software, focada em **desco
 Acreditamos em tecnologia aberta e inclusiva. Explore nossos repositórios, reporte issues ou envie PRs!  
 
 **📞 Contactos**:  
-🌐 [kodeza.co.mz](https://kodeza.co.mz)  
-✉️ kodeza.co@gmail.com  
+🌐 [kodeza.dev](https://kodeza.dev)  
+✉️ info@kodeza.com  
 📱 +258 87 110 5922 | +258 83 503 9891  
 
 ---  
