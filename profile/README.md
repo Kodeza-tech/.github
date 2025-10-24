@@ -22,7 +22,7 @@ Acreditamos em tecnologia aberta e inclusiva. Explore nossos repositórios, repo
 
 **📞 Contactos**:  
 🌐 [kodeza.dev](https://kodeza.dev)  
-✉️ info@kodeza.com  
+✉️ info@kodeza.dev 
 📱 +258 87 110 5922 | +258 83 503 9891  
 
 ---  
