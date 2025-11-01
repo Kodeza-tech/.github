@@ -4,7 +4,7 @@
 ### **Sobre Nós**  
 Somos uma startup moçambicana de desenvolvimento de software, focada em **descomplicar a tecnologia** através de soluções personalizadas para empresas e indivíduos. Combinamos expertise técnica com um profundo entendimento do contexto africano para criar ferramentas que geram impacto real.  
 
-### **O Que Fazemos**  
+### **O que fazemos**  
 - 🛠️ **Sistemas Sob Medida**: ERP, automação de processos e gestão integrada.  
 - 📱 **Apps & Plataformas Web**: Soluções mobile-first e offline-friendly.  
 - ⚡ **Inovação Contextualizada**: Tecnologia adaptada às necessidades locais.  
@@ -17,7 +17,7 @@ Somos uma startup moçambicana de desenvolvimento de software, focada em **desco
 - ✅ **Foco Local**: Soluções para infraestruturas de baixa conectividade.  
 - ✅ **Transparência**: Documentação clara e processos auditáveis.  
 
-### **Contribua & Colabore**  
+### **Contribua & colabore**  
 Acreditamos em tecnologia aberta e inclusiva. Explore nossos repositórios, reporte issues ou envie PRs!  
 
 **📞 Contactos**:  
